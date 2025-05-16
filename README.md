@@ -1,5 +1,7 @@
 # Frontend Mentor - Product list with cart
 
+[view live site]] (https://product-list-gray-eta.vercel.app/)
+
 ![Design preview for the Product list with cart coding challenge](./preview.jpg)
 
 ## Welcome! 👋
